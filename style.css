@@ -1,0 +1,10 @@
+.card-img-top
+{
+     width: 80%;
+    height: 15vw;
+    object-fit: contain;
+}
+.btn
+{
+    background-color:  linear-gradient(90deg, rgba(131,131,131,1) 0%, rgba(77,77,79,1) 43%, rgba(27,28,42,1) 100%);
+}
